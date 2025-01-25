@@ -62,5 +62,6 @@ Here are some screenshots of the website:
 3. **Landing Page**
   
 ![Screenshot 2025-01-25 161208](https://github.com/user-attachments/assets/74bc48ce-117e-4fe9-b2d3-5b861968eb99)
-![Screenshot 2025-01-25 161208](https://github.com/user-attachments/assets/46a13668-89b0-4e0a-95d8-0e66fddddf88)
+
+![Screenshot 2025-01-25 161214](https://github.com/user-attachments/assets/93f68ad3-e03a-4873-b9d8-7bd289cf0ff4)
 
